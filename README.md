@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- Please update value in the {}  -->
 
 <h1 align="center">{Simple Frequently Asked Questions | LanG} | devChallenges</h1>
@@ -81,3 +82,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 - Website [Simple Frequently Asked Questions | LanG](https://lang-ctrl.github.io/devchallenges_simple-faq)
 - GitHub [@LanG-Ctrl](https://github.com/LanG-Ctrl})
+=======
+# devchallenges_simple-faq
+>>>>>>> a2d65c5c315048c3dead4b5359ba90049230abad
