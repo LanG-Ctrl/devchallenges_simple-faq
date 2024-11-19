@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-<!-- Please update value in the {}  -->
-
-<h1 align="center">{Simple Frequently Asked Questions | LanG} | devChallenges</h1>
+<h1 align="center">Simple Frequently Asked Questions by LanG | devChallenges</h1>
 
 <div align="center">
    Solution for a challenge <a href="https://devchallenges.io/challenge/simple-faq-challenge" target="_blank">Simple FAQ</a> from <a href="http://devchallenges.io" target="_blank">devChallenges.io</a>.
@@ -9,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="{https://lang-ctrl.github.io/devchallenges_simple-faq}">
+    <a href="https://lang-ctrl.github.io/devchallenges_simple-faq">
       Demo
     </a>
     <span> | </span>
-    <a href="{https://github.com/LanG-Ctrl/devchallenges_simple-faq}">
+    <a href="https://github.com/LanG-Ctrl/devchallenges_simple-faq">
       Solution
     </a>
     <span> | </span>
@@ -82,6 +79,3 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 - Website [Simple Frequently Asked Questions | LanG](https://lang-ctrl.github.io/devchallenges_simple-faq)
 - GitHub [@LanG-Ctrl](https://github.com/LanG-Ctrl})
-=======
-# devchallenges_simple-faq
->>>>>>> a2d65c5c315048c3dead4b5359ba90049230abad
